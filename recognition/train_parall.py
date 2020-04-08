@@ -31,7 +31,6 @@ import fmobilefacenet
 import fmobilenet
 import fmnasnet
 import fdensenet
-import vargfacenet
 
 
 logger = logging.getLogger()
